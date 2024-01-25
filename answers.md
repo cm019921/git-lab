@@ -65,6 +65,6 @@ To https://github.com/cm019921/git-lab.git
  * [new branch]      main -> main
 Branch 'main' set up to track remote branch 'main' from 'origin'.
 10. no changes were made
-11. Yes the answers were correctly updated
+11. Error message when i tried to push
 12. Yes the changes were made
 13. This shows the git lab 2 file
